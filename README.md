@@ -1,0 +1,2 @@
+# AlgorithmsCourse
+Course assignments solutions.
